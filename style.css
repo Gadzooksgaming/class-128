@@ -1,0 +1,48 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: aliceblue;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed_disk{
+    float:left;
+}
+
+#speed_img{
+   width:200px;
+   border-radius: 100px;
+   
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.volume_disk{
+    float:right;
+}
+
+#volume_img{
+   width:200px;
+   border-radius: 100px;
+   
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
